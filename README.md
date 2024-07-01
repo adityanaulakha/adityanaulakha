@@ -24,8 +24,8 @@ I have been doing programming since 2023, started with Python, now exploring mor
 <a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" height="40"></a>
 
 ## Socials
-<a href="https://github.com/adityanaulakha"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"></a>
-<a href="https://www.linkedin.com/in/aditya-naulakha-7757412a1/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40"></a>
-<a href="https://www.instagram.com/i_adityanaulakha/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40"></a>
-<a href="https://x.com/iadityanaulakha?s=09"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="40"></a>
-<!--- <a href="https://youtube.com/your-youtube-profile"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" height="40"></a> --->
+<a href="https://github.com/adityanaulakha"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="40"></a>
+<a href="https://www.linkedin.com/in/aditya-naulakha-7757412a1/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="40"></a>
+<a href="https://www.instagram.com/i_adityanaulakha/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40"></a>
+<a href="https://x.com/iadityanaulakha?s=09"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" height="40"></a>
+<!--- <a href="https://youtube.com/your-youtube-profile"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" height="40"></a> --->
