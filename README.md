@@ -13,7 +13,7 @@ I have been doing Full Stack since 2023, started with JS and TS, now delving mor
 - ⚡ I love lifting weights and playing Badminton.
 
 ## Skills
-![](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
