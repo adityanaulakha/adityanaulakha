@@ -1,9 +1,8 @@
 # Hi 👋 My name is Aditya Naulakha
 
 I have been doing programming since 2023, started with Python, now exploring more into Full Stack Development.
-
-- 🌐 I'm based in Mathura, Uttar Pradesh.
 <!--- - 🖥️ See my portfolio at [Professional Space](https://your-portfolio-link.com) --->
+- 🌐 I'm based in Mathura, Uttar Pradesh.
 - 📧 You can contact me at [adityanaualakha.work@gmail.com](mailto:adityanaualakha.work@gmail.com)
 - 🚀 I'm currently working at Baoiam Innovations Pvt. Ltd.
 - 📚 I'm learning Full Stack Development.
