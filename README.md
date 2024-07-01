@@ -44,4 +44,4 @@ I have been doing programming since 2023, started with Python, now exploring mor
 <a href="https://instagram.com/your-instagram-profile"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" height="40"></a>
 <a href="https://twitter.com/your-twitter-profile"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="40"></a>
 <a href="https://facebook.com/your-facebook-profile"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" height="40"></a>
-<a href="https://youtube.com/your-youtube-profile"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" height="40"></a>
+<a href="https://youtube.com/your-youtube-profile"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" height="40"></a>
