@@ -37,7 +37,7 @@ I have been doing programming since 2023, started with Python, now exploring mor
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40"></a>
 
 ## Socials
-
+<a href="https://discord.com/"><img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" height="40"></a>
 <a href="https://github.com/adityanaulakha"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"></a>
 <a href="https://www.linkedin.com/in/aditya-naulakha-7757412a1/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40"></a>
 <a href="https://www.instagram.com/i_adityanaulakha/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40"></a>
