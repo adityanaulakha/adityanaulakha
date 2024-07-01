@@ -1,4 +1,4 @@
-# Hi 👋 My name is Aditya Naulakha
+# Hi 👋 My name is Aditya
 
 I have been doing programming since 2023, started with Python, now exploring more into Full Stack Development.
 <!--- - 🖥️ See my portfolio at [Professional Space](https://your-portfolio-link.com) --->
