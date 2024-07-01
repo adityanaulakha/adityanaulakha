@@ -1,4 +1,4 @@
-# Hi 👋 My name is Ankush
+# Hi 👋 My name is Aditya Naulakha
 
 **Full Stack Developer**
 
