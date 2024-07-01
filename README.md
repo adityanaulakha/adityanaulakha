@@ -30,8 +30,8 @@ I have been doing programming since 2023, started with Python, now exploring mor
 <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40"></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"></a>
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"></a>
-<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40"></a>
-<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40"></a>
+<a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40"></a>
+<a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40"></a>
 <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40"></a>
 <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="40"></a>
 <a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" height="40"></a>
