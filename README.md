@@ -6,7 +6,7 @@ I have been doing programming since 2023, started with Python, now exploring mor
 - 📧 You can contact me at [adityanaualakha.work@gmail.com](mailto:adityanaualakha.work@gmail.com)
 - 🚀 I'm currently working at Baoiam Innovations Pvt. Ltd.
 - 📚 I'm learning Full Stack Development.
-- 🤝 I'm open to collaborating on Full Stack and Python Projects.
+- 🤝 I'm open to collaborating on Front-end and Python Projects.
 - ⚡ I love lifting weights.
 
 ## Skills
