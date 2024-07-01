@@ -1,4 +1,4 @@
-# Hi src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" My name is Aditya Naulakha
+# Hi 👋 My name is Aditya Naulakha
 
 I have been doing programming since 2023, started with Python, now exploring more into Full Stack Development.
 <!--- - 🖥️ See my portfolio at [Professional Space](https://your-portfolio-link.com) --->
@@ -21,11 +21,12 @@ I have been doing programming since 2023, started with Python, now exploring mor
 <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"></a>
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"></a>
 <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="35"></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40"></a>
 <a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" height="40"></a>
 
 ## Socials
 <a href="https://github.com/adityanaulakha"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="40"></a>
 <a href="https://www.linkedin.com/in/aditya-naulakha-7757412a1/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="40"></a>
-<a href="https://www.instagram.com/i_adityanaulakha/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40"></a>
 <a href="https://x.com/iadityanaulakha?s=09"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" height="40"></a>
+<a href="https://www.instagram.com/i_adityanaulakha/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40"></a>
 <!--- <a href="https://youtube.com/your-youtube-profile"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" height="40"></a> --->
