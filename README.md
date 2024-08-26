@@ -1,11 +1,11 @@
-# Hi 👋 My name is Aditya
+# Hi 👋 My name is Aditya Naulakha
 
-I have been doing programming since 2023, started with Python, now exploring more into Full Stack Development.
+I have been doing programming since 2023, started with C and Python, now exploring more into Full Stack Development.
 <!--- - 🖥️ See my portfolio at [Professional Space](https://your-portfolio-link.com) --->
 - 🌐 I'm based in Mathura, Uttar Pradesh.
 - 📧 You can contact me at [adityanaualakha.work@gmail.com](mailto:adityanaualakha.work@gmail.com)
-- 🚀 I'm currently working at Baoiam Innovations Pvt. Ltd.
-- 📚 I'm learning Full Stack Development and Java.
+- 🚀 I'm currently working for Full-Stack Development.
+- 📚 I'm learning Java and Full Stack Development .
 - 🤝 I'm open to collaborating on Front-end and Python Projects.
 - ⚡ I love lifting weights.
 
@@ -22,7 +22,6 @@ I have been doing programming since 2023, started with Python, now exploring mor
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"></a>
 <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="35"></a>
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40"></a>
-<a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" height="40"></a>
 
 ## Socials
 <a href="https://github.com/adityanaulakha"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="40"></a>
