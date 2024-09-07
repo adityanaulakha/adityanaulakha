@@ -6,7 +6,7 @@ I have been doing programming since 2023, started with C and Python, now explori
 - 📧 You can contact me at [adityanaualakha.work@gmail.com](mailto:adityanaualakha.work@gmail.com)
 - 🚀 I'm currently working for Full-Stack Development.
 - 📚 I'm learning Java and Full Stack Development .
-- 🤝 I'm open to collaborating on Front-end and Python Projects.
+- 🤝 I'm open to collaborating on Front-end and Java Projects.
 - ⚡ I love lifting weights.
 
 ## Skills
