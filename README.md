@@ -3,7 +3,7 @@
 I have been doing programming since 2023, started with C and Python, now exploring more into Full Stack Development.
 <!--- - 🖥️ See my portfolio at [Professional Space](https://your-portfolio-link.com) --->
 - 🌐 I'm based in Mathura, Uttar Pradesh.
-- 📧 You can contact me at [adityanaualakha.work@gmail.com](mailto:adityanaualakha.work@gmail.com)
+- 📧 You can contact me at [adityanaulakha.work@gmail.com](mailto:adityanaualakha.work@gmail.com)
 - 🚀 I'm currently working for Full-Stack Development.
 - 📚 I'm learning Java and Full Stack Development .
 - 🤝 I'm open to collaborating on Front-end and Java Projects.
