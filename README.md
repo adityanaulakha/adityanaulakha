@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">🚀 Full-Stack Developer | 🤖 Automation & IoT Seeker | 🧠 Generative AI Explorer</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🤖 Automation & IoT | 🧠 Generative AI Explorer</h3>
 
 <p align="center">
   <a href="mailto:naulakhaaditya4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&style=for-the-badge"></a>
