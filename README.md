@@ -52,16 +52,6 @@
 
 ---
 
-## 💡 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🛰️ [**OrbitalVision**](https://orbitalvision.streamlit.app/) | Real-time space object detection using YOLOv8 + DeepSORT with eco-mode for power efficiency. | Python, Streamlit, TensorFlow |
-| 🧹 [**CleanSight**](https://cleansight-zero-to-one.vercel.app/) | AI-powered garbage detection SPA with React + Firebase + Python YOLO microservice. | React, Firebase, Python |
-| 💻 [**CodePunk v1.0**](https://code-punk-v1-0.vercel.app/) | Hackathon registration website for College Hackathon. | React, Tailwind CSS |
-
----
-
 ## 📊 GitHub Insights
 
 <p align="center">
